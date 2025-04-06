@@ -1,45 +1,24 @@
-# 📘 Proyecto: Sistema de Reservas de Hoteles
+# Aprendamos p causa
+A partir de este momento, empezare a usar markdown para empezar a subir todo lo que tenga que subirse en github xdxdexddx
 
-## 👨‍💻 Integrantes
+## uy
+Esto es bstante curioso poq antes usabamos word para ir haciendo los trabajos pero ahora usamos markdown que se me hace bastante curioso pero ni modos
+### menos mal no esta complicada la cosa
+es raro pero sinceramente pense que seria mucho mas dificil el poder aprender esta wea pero ya voy mejorcito, como q ya le voy agarrando la onda o algo asi
 
-- **Nombre 1** - 202XXXXX
-- **Nombre 2** - 202XXXXX
-- **Curso:** Desarrollo de Aplicaciones Web
-- **Ciclo:** 2025-1
+![imagen del uiia por alguna razon](https://ih1.redbubble.net/image.5728479951.6764/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
+>iomagen del gato p [https://ih1.redbubble.net/image.5728479951.6764/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg]
 
----
+esto es una lista p :
 
-## 🧩 Descripción del Proyecto
+- punto a
+	- subconjunto1
+	- subconjunto2
 
-El sistema permitirá a los usuarios buscar hoteles, ver detalles, realizar reservas y gestionar su historial de reservas.
 
----
+esto es una lista de tareas:
+- [ ] tarea 1
+- [ ] tarea 2
 
-## 🛠️ Funcionalidades
+# parte 2 wazaaaa
 
-### 🔍 Búsqueda y Filtros
-
-- [x] Visualizar todos los hoteles recomendados
-- [x] Buscar hoteles por nombre
-- [ ] Filtrar por país, estrellas y tipo
-
-### 🏨 Detalle del Hotel
-
-- [x] Mostrar descripción, instalaciones y ubicación
-- [x] Mostrar galería de imágenes
-- [x] Mostrar comentarios y calificaciones
-
-### 📅 Reservas
-
-- [x] Seleccionar fechas y personas
-- [ ] Seleccionar medio de pago
-- [ ] Confirmar y generar comprobante
-
----
-
-## 📸 Capturas de Pantalla
-
-> *(Aquí puedes poner imágenes una vez tengas mockups o pantallazos)*
-
-```markdown
-![Pantalla de búsqueda](./imagenes/busqueda.png)
