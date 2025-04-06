@@ -1,28 +1,45 @@
-# practicar-markdown
-pa aprender markdown
-## Búsqueda o filtrado
+# 📘 Proyecto: Sistema de Reservas de Hoteles
 
-- **(08)** Visualización del listado de todos los hoteles recomendados.  
-- **(09)** Búsqueda de hotel mediante un texto de búsqueda.  
-- **(10)** Filtrado de búsqueda por país, orden, precio, estrellas, instalaciones y tipo.  
-- **(11)** Visualización del resultado de la búsqueda de hoteles.  
+## 👨‍💻 Integrantes
 
-## Detalle de Hotel
+- **Nombre 1** - 202XXXXX
+- **Nombre 2** - 202XXXXX
+- **Curso:** Desarrollo de Aplicaciones Web
+- **Ciclo:** 2025-1
 
-- **(12 y 13)** Visualización del detalle, descripción, instalaciones y localización de un hotel.  
-- **(14)** Visualización de la galería de fotos de un hotel.  
-- **(15)** Visualización de la calificación y comentarios de un hotel.  
+---
 
-## Reserva de Hotel
+## 🧩 Descripción del Proyecto
 
-- **(16)** Reserva de hotel especificando el check-in, check-out y cantidad de personas.  
-- **(17)** Selección de diferentes medios de pago como PayPal, Google Pay, Apple Pay, tarjeta de crédito y débito.  
-- **(18)** Confirmación de pago de reserva con el detalle de reserva seleccionado.  
-- **(19)** Generación y descarga del ticket (comprobante de pago) de forma automática con el detalle de reserva.  
+El sistema permitirá a los usuarios buscar hoteles, ver detalles, realizar reservas y gestionar su historial de reservas.
 
-## Gestión de Reservas
+---
 
-- **(20)** Visualización del historial de reservas realizadas en la aplicación (My Booking).  
-- **(21)** Cancelación de la reserva de un hotel con devolución incluida.  
-- **(22)** Selección del medio de pago donde se realizará la devolución del 80%.  
-- **(23)** Confirmación de la cancelación de la reserva y devolución del 80% del dinero.  
+## 🛠️ Funcionalidades
+
+### 🔍 Búsqueda y Filtros
+
+- [x] Visualizar todos los hoteles recomendados
+- [x] Buscar hoteles por nombre
+- [ ] Filtrar por país, estrellas y tipo
+
+### 🏨 Detalle del Hotel
+
+- [x] Mostrar descripción, instalaciones y ubicación
+- [x] Mostrar galería de imágenes
+- [x] Mostrar comentarios y calificaciones
+
+### 📅 Reservas
+
+- [x] Seleccionar fechas y personas
+- [ ] Seleccionar medio de pago
+- [ ] Confirmar y generar comprobante
+
+---
+
+## 📸 Capturas de Pantalla
+
+> *(Aquí puedes poner imágenes una vez tengas mockups o pantallazos)*
+
+```markdown
+![Pantalla de búsqueda](./imagenes/busqueda.png)
